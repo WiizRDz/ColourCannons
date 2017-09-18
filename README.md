@@ -2,6 +2,8 @@
 
 Just a fun project I made in python during school
 
+Version 1.6 is newest
+
 Controls:
 
 	Left-Click: spawn squares
